@@ -1,0 +1,10 @@
+:root {
+	--main-color: rgba(0, 0, 0, 0.5);
+	--text-color: rgba(66, 66, 66, 0.9);
+
+	--screen-background-color: #f7f7f7;
+
+	--character-name-color: #ffffff;
+
+	--quick-menu-text-color: rgba(125, 125, 125, 0.5);
+}
